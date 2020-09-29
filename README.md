@@ -11,7 +11,7 @@ Algorithms
 
 Requirements: JavaScript, CSS3, HTML5.
 
-[LIVE VERSION](http://monikatrawinska.eu.pythonanywhere.com/) 
+[LIVE VERSION](https://mtxwl.github.io/sort_ing_algor-ithms/sorting_algoritms/) 
 
 Main view
 ![init point](https://github.com/MTrawinska/Sorting-algorithm/blob/master/start.png)
